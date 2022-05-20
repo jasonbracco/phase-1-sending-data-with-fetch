@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,35 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Jason",
+      "dogBreed": "Bracco",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +48,159 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 1
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 2
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 3
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 4
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 5
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 6
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 7
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 8
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 9
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 10
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 11
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 12
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 13
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 14
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 15
+    },
+    {
+      "name": "jason",
+      "email": "bracco",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "name": "jason",
+      "email": "jason",
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "name": "jason",
+      "email": "jason",
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "name": "jason",
+      "email": "jason",
+      "id": 35
+    },
+    {
+      "id": 36
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
